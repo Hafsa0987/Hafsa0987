@@ -15,13 +15,6 @@
 
 ---
 
-## Hey, I'm Hafsa Saghir! 👩‍💻
-
-A Software Engineering student with a passion for designing seamless user experiences and writing efficient code.
-I blend creativity with logic — turning ideas into clean interfaces and functional solutions.
-
----
-
 ## 🙋‍♀️ About Me
 
 - 🎓 **SE 5th Semester Student** at [Riphah International University](https://riphah.edu.pk/)
